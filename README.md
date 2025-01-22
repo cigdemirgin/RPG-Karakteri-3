@@ -1,8 +1,5 @@
-<!-- Bunun için genel formatı hatırlayın:
+# RPG Character
+A web application that allows users to random RPG characters with different attributes and abilities. The project showcases modern front-end development practices using React
 
-    const [stateAdınız, setStateAdınız] = useState(değerinizBurada)
-
-Şimdi sadece talimatlardaki gerçek isimleri ve değerleri girmeniz yeterli (Bu durumda değerimiz, içinde bir sürü özellik ve değer bulunan bir nesnedir).
-
-Bu fonksiyonun, characterData state'ini bildirirken aynı zamanda bildirilmesi yeterlidir. Fonksiyonla başka bir şey yapmanıza gerek yok.
--->
+## Live Demo
+Experience the app live here: [RPG Character Live Demo](https://rpg-karakteri-eight.vercel.app/)
